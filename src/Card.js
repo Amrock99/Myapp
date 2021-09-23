@@ -3,7 +3,7 @@ import './Card.css'
 
 const Card = () => {
         return (
-        <div className="bg-washed-red dib br3 pa3 ph1 ma3 grow bw2 shadow-5 tc">
+        <div className="bg-lightest-blue dib br3 pa3 ph1 ma3 grow bw2 shadow-5 tc">
         <div><a class="op tr f10 no-underline br-pill ph3 pv2 mb2 dib white bg-moon-gray " href="#0">Button Text</a></div>
         <div className="tl"><h2>Ethermon</h2></div>
         <br></br>
